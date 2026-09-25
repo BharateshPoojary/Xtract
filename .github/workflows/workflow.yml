@@ -56,6 +56,9 @@ jobs:
   deploy:
     needs: build-and-push
     runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://xtract.bharatwebcrafts.com
     steps:
       - name: Deploy to VM
         uses: appleboy/ssh-action@v1.0.3
