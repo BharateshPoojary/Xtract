@@ -4,15 +4,8 @@
   A Next.js web app for uploading bank-statement PDFs and viewing the extracted accounts, balances, and transactions in a clean, tabular interface.
 </p>
 
-<!-- ─────────────────────────────────────────────────────────────
-     📸  Add a screenshot / demo GIF below.
-     Drop an image into the `public/` folder and update the path,
-     or drag-and-drop directly into this section on GitHub.
-     ───────────────────────────────────────────────────────────── -->
-
 <p align="center">
-  <!-- <img src="public/screenshot.png" alt="Xtract app" width="800" /> -->
-  <em>Screenshot / demo coming soon</em>
+  <img src="public/screenshot.png" alt="Xtract app — extracted bank statement view" width="800" />
 </p>
 
 ---
